@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 .vscode/
-group1_results/*.keras
+*.keras

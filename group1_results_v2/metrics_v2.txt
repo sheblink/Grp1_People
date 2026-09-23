@@ -1,0 +1,7 @@
+MODEL 2 RESULTS
+Epochs completed: 30
+Best epoch by validation loss: 20
+Validation loss at best epoch: 1.4833
+Validation accuracy at best epoch: 0.3820
+Test loss: 1.4466
+Test accuracy: 0.3520 (35.20%)
